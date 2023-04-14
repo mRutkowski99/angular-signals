@@ -1,0 +1,17 @@
+/* Add application styles & imports to this file! */
+
+button {
+  padding: 10px;
+  border: 1px solid black;
+  margin: 5px;
+  height: 35px;
+  cursor: pointer;
+}
+
+input,
+select {
+  border-radius: 0;
+  border: 1px solid black;
+  height: 35px;
+  margin: 10px;
+}
